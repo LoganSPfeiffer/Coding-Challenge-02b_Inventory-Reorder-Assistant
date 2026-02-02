@@ -25,8 +25,3 @@ console.log(`Reorder Quantity (LBs): ${reorderQuantity}`);
 console.log(`Estimated Reorder Cost: $${estimatedReorderCost.toFixed(2)}`);
 
 
-// Styling
- h1 {
-     color: darkblue;
-     text-align: center;
- }
