@@ -23,3 +23,10 @@ console.log(`Weeks of cover: ${weeksOfCover.toFixed(2)}`);
 console.log(`Reorder Now?: ${reorderNow ? "True" : "False"}`);
 console.log(`Reorder Quantity (LBs): ${reorderQuantity}`);
 console.log(`Estimated Reorder Cost: $${estimatedReorderCost.toFixed(2)}`);
+
+
+// Styling
+ h1 {
+     color: darkblue;
+     text-align: center;
+ }
